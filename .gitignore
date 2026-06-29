@@ -35,3 +35,4 @@ build/
 ### Workshop Local Artifacts ###
 *.zip
 *.log
+!miniproject.zip
